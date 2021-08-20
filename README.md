@@ -7,7 +7,7 @@
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Janaina-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Janaina-Github" height="30" width="30" src="https://www.iconsdb.com/icons/preview/white/github-11-xxl.png">
+  <img align="center" alt="Janaina-Github" height="30" width="30" src="https://image.flaticon.com/icons/png/512/733/733553.png">
   <img align="center" alt="Janaina-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Janaina-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Janaina-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -16,8 +16,8 @@
   <img align="center" alt="Janaina-Jest" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
   <img align="center" alt="Janaina-Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Janaina-MySQL" height="40" width="40" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/mysql-workbench-icon.png">
-  <img align="center" alt="Janaina-AWS" height="20" width="40" src="http://clipart-library.com/new_gallery/310-3104782_amazon-logo-png-white-aws-with-transparent-background.png">
-  <img align="center" alt="Janaina-Firebase" height="40" width="45" src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png">
+  <img align="center" alt="Janaina-AWS" height="40" width="40" src="https://lh3.googleusercontent.com/pw/AM-JKLUUZQyDKTeTJIuQ2DEnBsXtVryxAIXDxGjserxe_jBqXeMghfrixqaUcajqNwdFKXsgsSSc9EyD-7DO8iYTVt1OsrDQ9DSxGmMbAME0TQtlsX4QfL511heakKaqTqhny0Hni1vk-xvTlKiF78-hFVcbWg=s480-no?authuser=0">
+  <img align="center" alt="Janaina-Firebase" height="40" width="40" src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png">
 </div>
 
  ##
