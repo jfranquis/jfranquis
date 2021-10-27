@@ -16,7 +16,7 @@
   <img align="center" alt="Janaina-Jest" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
   <img align="center" alt="Janaina-Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Janaina-MySQL" height="40" width="40" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/mysql-workbench-icon.png">
-  <img align="center" alt="Janaina-AWS" height="40" width="40" src="https://lh3.googleusercontent.com/pw/AM-JKLUUZQyDKTeTJIuQ2DEnBsXtVryxAIXDxGjserxe_jBqXeMghfrixqaUcajqNwdFKXsgsSSc9EyD-7DO8iYTVt1OsrDQ9DSxGmMbAME0TQtlsX4QfL511heakKaqTqhny0Hni1vk-xvTlKiF78-hFVcbWg=s480-no?authuser=0">
+  <img align="center" alt="Janaina-AWS" height="40" width="40" src="https://lh3.googleusercontent.com/pw/AMJKLUUZQyDKTeTJIuQ2DEnBsXtVryxAIXDxGjserxe_jBqXeMghfrixqaUcajqNwdFKXsgsSSc9EyD-7DO8iYTVt1OsrDQ9DSxGmMbAME0TQtlsX4QfL511heakKaqTqhny0Hni1vk-xvTlKiF78-hFVcbWg=s480-no?authuser=0">
   <img align="center" alt="Janaina-Firebase" height="40" width="40" src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png">
 </div>
 
